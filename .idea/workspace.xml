@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Client:jar" />
+      <artifact name="TCP:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="feb203d0-e791-4b3c-8d6a-2ce6434dee80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TCP" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SrqjshfryLhYouuQzdRdN4cVrq" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="tcp" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/client" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.projekt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Client1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="client.ClientMain" />
+      <module name="Snake" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/../javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="client.ClientMain" />
+      <module name="Snake" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/../javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="server.ServerMain" />
+      <module name="Snake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mariadb-java-client-2.5.1-sources.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/mariadb-java-client-2.5.1-sources.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client2" />
+      <item itemvalue="Application.Client1" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="JAR Application.mariadb-java-client-2.5.1-sources.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.mariadb-java-client-2.5.1-sources.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feb203d0-e791-4b3c-8d6a-2ce6434dee80" name="Default Changelist" comment="" />
+      <created>1572332200915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572332200915</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="224" y="631" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581099535271">
+      <screen x="166" y="0" width="1200" height="1920" />
+    </state>
+    <state x="224" y="631" key="#com.intellij.execution.impl.EditConfigurationsDialog/166.0.1200.1920/0.1920.1366.768@166.0.1200.1920" timestamp="1581099535271" />
+    <state x="502" y="807" width="518" height="336" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1581099389874">
+      <screen x="166" y="0" width="1200" height="1920" />
+    </state>
+    <state x="502" y="807" width="518" height="336" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/166.0.1200.1920/0.1920.1366.768@166.0.1200.1920" timestamp="1581099389874" />
+    <state x="498" y="757" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581099528115">
+      <screen x="166" y="0" width="1200" height="1920" />
+    </state>
+    <state x="498" y="757" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/166.0.1200.1920/0.1920.1366.768@166.0.1200.1920" timestamp="1581099528115" />
+    <state width="1150" height="484" key="GridCell.Tab.0.bottom" timestamp="1581094454233">
+      <screen x="166" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1316" height="149" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579000241727" />
+    <state width="1150" height="484" key="GridCell.Tab.0.bottom/166.0.1200.1920/0.1920.1366.768@166.0.1200.1920" timestamp="1581094454233" />
+    <state width="1150" height="484" key="GridCell.Tab.0.center" timestamp="1581094454233">
+      <screen x="166" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1316" height="149" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579000241727" />
+    <state width="1150" height="484" key="GridCell.Tab.0.center/166.0.1200.1920/0.1920.1366.768@166.0.1200.1920" timestamp="1581094454233" />
+    <state width="1150" height="484" key="GridCell.Tab.0.left" timestamp="1581094454233">
+      <screen x="166" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1316" height="149" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579000241726" />
+    <state width="1150" height="484" key="GridCell.Tab.0.left/166.0.1200.1920/0.1920.1366.768@166.0.1200.1920" timestamp="1581094454233" />
+    <state width="1150" height="484" key="GridCell.Tab.0.right" timestamp="1581094454233">
+      <screen x="166" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1316" height="149" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579000241727" />
+    <state width="1150" height="484" key="GridCell.Tab.0.right/166.0.1200.1920/0.1920.1366.768@166.0.1200.1920" timestamp="1581094454233" />
+    <state x="249" y="551" width="1024" height="849" key="SettingsEditor" timestamp="1581099558519">
+      <screen x="166" y="0" width="1200" height="1920" />
+    </state>
+    <state x="249" y="551" width="1024" height="849" key="SettingsEditor/166.0.1200.1920/0.1920.1366.768@166.0.1200.1920" timestamp="1581099558519" />
+    <state x="463" y="513" key="com.intellij.ide.util.TipDialog" timestamp="1581094333403">
+      <screen x="166" y="0" width="1200" height="1920" />
+    </state>
+    <state x="338" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578996429099" />
+    <state x="463" y="513" key="com.intellij.ide.util.TipDialog/166.0.1200.1920/0.1920.1366.768@166.0.1200.1920" timestamp="1581094333403" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/server/Player.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/client/Snake.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/client/Snake.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/client/GameDrawer.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/server/SessionFuncs.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/server/UpdateTask.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
